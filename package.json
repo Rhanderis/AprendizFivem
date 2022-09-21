@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@citizenfx/client": "^2.0.5888-1",
+    "@citizenfx/server": "^2.0.5888-1"
+  }
+}

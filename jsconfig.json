@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+    },
+    "typeAcquisition": {
+        "include": [
+            "node_modules/@citizenfx/client/natives_universal.d.ts",
+            "node_modules/@citizenfx/client/index.d.ts",
+            "node_modules/@citizenfx/server/index.d.ts",
+            "node_modules/@citizenfx/server/natives_server.d.ts"
+        ]
+    },
+    "include": [
+        "resources/**/*.js",
+        "node_modules/@citizenfx/client/natives_universal.d.ts",
+        "node_modules/@citizenfx/client/index.d.ts",
+        "node_modules/@citizenfx/server/index.d.ts",
+        "node_modules/@citizenfx/server/natives_server.d.ts"
+    ]
+  }

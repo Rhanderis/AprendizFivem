@@ -1,0 +1,2 @@
+# Aprendiz FiveM
+npm install
